@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/data/filetypes.txt</file>
+		<file>assets/data/template.doc</file>
+		<file>assets/data/template.xls</file>
+		<file>assets/data/template.ppt</file>
+		<file>assets/data/template.txt</file>
+    </qresource>
+</RCC>
